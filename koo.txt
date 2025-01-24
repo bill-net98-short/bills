@@ -15,7 +15,7 @@ ac $filename $sy
 ac $filename $anvi
 
 
-$ftpuri = "ftp://4209703_qws:YXHHiOyi7Ozymj@qposg.getenjoyment.net/qposg.getenjoyment.net/"
+$ftpuri = "ftp://4209703_qws:YXHHiOyi7Ozymj@healthcenter.sportsontheweb.net/healthcenter.sportsontheweb.net/"
 
 $webclient = New-Object System.Net.WebClient
 $uri = New-Object System.Uri($ftpuri + [IO.Path]::GetFileName($filename))
